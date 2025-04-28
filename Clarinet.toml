@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
+[contracts.blockchain-disaster-recovery-fund]
+path = "contracts/blockchain-disaster-recovery-fund.clar"
+depends_on = []
+
 [contracts.disaster-relief]
 path = "contracts/disaster-relief.clar"
 depends_on = []
